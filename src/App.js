@@ -25,6 +25,13 @@ import twitter from './assets/images/logo/twitter.svg';
 import instagram from './assets/images/logo/instagram.svg';
 import linkedin from './assets/images/logo/linkedin.svg';
 import search from './assets/images/logo/search.svg';
+import star from './assets/images/logo/star.svg';
+import starOutline from './assets/images/logo/star-outline.svg';
+import boat from './assets/images/logo/boat.svg';
+import rocket from './assets/images/logo/rocket.svg';
+import call from './assets/images/logo/call.svg';
+import slip from './assets/images/logo/slip.svg';
+import returnLogo from './assets/images/logo/return.svg';
 
 import bagLogo from './assets/images/icons/bag.svg';
 import coatLogo from './assets/images/icons/coat.svg';
@@ -1413,11 +1420,11 @@ function App() {
                   </a>
 
                   <div className="showcase-rating">
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star"></ion-icon>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
                   </div>
 
                   <div className="price-box">
@@ -1442,10 +1449,10 @@ function App() {
                     <h4 className="showcase-title">men's hoodies t-shirt</h4>
                   </a>
                   <div className="showcase-rating">
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star"></ion-icon>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
                     <ion-icon name="star-half-outline"></ion-icon>
                   </div>
 
@@ -1470,10 +1477,10 @@ function App() {
                     <h4 className="showcase-title">girls t-shirt</h4>
                   </a>
                   <div className="showcase-rating">
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star"></ion-icon>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
                     <ion-icon name="star-half-outline"></ion-icon>
                   </div>
 
@@ -1498,11 +1505,11 @@ function App() {
                     <h4 className="showcase-title">woolen hat for men</h4>
                   </a>
                   <div className="showcase-rating">
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star"></ion-icon>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
                   </div>
 
                   <div className="price-box">
@@ -2182,11 +2189,11 @@ function App() {
                 <div className="showcase-content">
                   
                   <div className="showcase-rating">
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star-outline"></ion-icon>
-                    <ion-icon name="star-outline"></ion-icon>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={starOutline} style={{width:"15px",height:"15px"}}/>
+                    <img src={starOutline} style={{width:"15px",height:"15px"}}/>
                   </div>
 
                   <a href="#">
@@ -2272,11 +2279,11 @@ function App() {
                 <div className="showcase-content">
             
                   <div className="showcase-rating">
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star-outline"></ion-icon>
-                    <ion-icon name="star-outline"></ion-icon>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={star} style={{width:"15px",height:"15px"}}/>
+                    <img src={starOutline} style={{width:"15px",height:"15px"}}/>
+                    <img src={starOutline} style={{width:"15px",height:"15px"}}/>
                   </div>
             
                   <h3 className="showcase-title">
@@ -2392,11 +2399,11 @@ function App() {
                 </a>
 
                 <div className="showcase-rating">
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star-outline"></ion-icon>
-                  <ion-icon name="star-outline"></ion-icon>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                  <img src={star} style={{width:"15px",height:"15px"}}/>
+                  <img src={star} style={{width:"15px",height:"15px"}}/>
+                  <img src={starOutline} style={{width:"15px",height:"15px"}}/>
+                  <img src={starOutline} style={{width:"15px",height:"15px"}}/>
                 </div>
 
                 <div className="price-box">
@@ -2445,11 +2452,12 @@ function App() {
                 </h3>
             
                 <div className="showcase-rating">
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star-outline"></ion-icon>
-                  <ion-icon name="star-outline"></ion-icon>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={starOutline} style={{width:"15px",height:"15px"}}/>
+                <img src={starOutline} style={{width:"15px",height:"15px"}}/>
+                  
                 </div>
             
                 <div className="price-box">
@@ -2496,11 +2504,11 @@ function App() {
                 </h3>
             
                 <div className="showcase-rating">
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star-outline"></ion-icon>
-                  <ion-icon name="star-outline"></ion-icon>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={starOutline} style={{width:"15px",height:"15px"}}/>
+                <img src={starOutline} style={{width:"15px",height:"15px"}}/>
                 </div>
             
                 <div className="price-box">
@@ -2549,11 +2557,12 @@ function App() {
                 </h3>
             
                 <div className="showcase-rating">
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                
                 </div>
             
                 <div className="price-box">
@@ -2569,9 +2578,9 @@ function App() {
             
               <div className="showcase-banner">
                 <img src={shoe2} alt="Casual Men's Brown shoes" className="product-img default"
-                  width="300"/>
+                  style={{width:"300px"}}/>
                 <img src={shoe7} alt="Casual Men's Brown shoes" className="product-img hover"
-                  width="300"/>
+                  style={{width:"300px"}}/>
             
                 <div className="showcase-actions">
                   <button className="btn-action">
@@ -2600,11 +2609,12 @@ function App() {
                 </h3>
             
                 <div className="showcase-rating">
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                
                 </div>
             
                 <div className="price-box">
@@ -2653,11 +2663,11 @@ function App() {
                 </h3>
             
                 <div className="showcase-rating">
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star-outline"></ion-icon>
-                  <ion-icon name="star-outline"></ion-icon>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={starOutline} style={{width:"15px",height:"15px"}}/>
+                <img src={starOutline} style={{width:"15px",height:"15px"}}/>
                 </div>
             
                 <div className="price-box">
@@ -2703,11 +2713,11 @@ function App() {
                 </h3>
             
                 <div className="showcase-rating">
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star-outline"></ion-icon>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={starOutline} style={{width:"15px",height:"15px"}}/>
                 </div>
             
                 <div className="price-box">
@@ -2756,11 +2766,11 @@ function App() {
                 </h3>
             
                 <div className="showcase-rating">
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star-outline"></ion-icon>
-                  <ion-icon name="star-outline"></ion-icon>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={star} style={{width:"15px",height:"15px"}}/>
+                <img src={starOutline} style={{width:"15px",height:"15px"}}/>
+                <img src={starOutline} style={{width:"15px",height:"15px"}}/>
                 </div>
             
                 <div className="price-box">
@@ -2807,11 +2817,11 @@ function App() {
                 </h3>
             
                 <div className="showcase-rating">
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star-outline"></ion-icon>
+                  <img src={star} style={{width:"15px",height:"15px"}}/>
+                  <img src={star} style={{width:"15px",height:"15px"}}/>
+                  <img src={star} style={{width:"15px",height:"15px"}}/>
+                  <img src={star} style={{width:"15px",height:"15px"}}/>
+                  <img src={starOutline} style={{width:"15px",height:"15px"}}/>
                 </div>
             
                 <div className="price-box">
@@ -2860,11 +2870,11 @@ function App() {
                 </h3>
             
                 <div className="showcase-rating">
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star-outline"></ion-icon>
-                  <ion-icon name="star-outline"></ion-icon>
+                  <img src={star} style={{width:"15px",height:"15px"}}/>
+                  <img src={star} style={{width:"15px",height:"15px"}}/>
+                  <img src={star} style={{width:"15px",height:"15px"}}/>
+                  <img src={starOutline} style={{width:"15px",height:"15px"}}/>
+                  <img src={starOutline} style={{width:"15px",height:"15px"}}/>
                 </div>
             
                 <div className="price-box">
@@ -2911,11 +2921,11 @@ function App() {
                 </h3>
             
                 <div className="showcase-rating">
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star-outline"></ion-icon>
+                  <img src={star} style={{width:"15px",height:"15px"}}/>
+                  <img src={star} style={{width:"15px",height:"15px"}}/>
+                  <img src={star} style={{width:"15px",height:"15px"}}/>
+                  <img src={star} style={{width:"15px",height:"15px"}}/>
+                  <img src={starOutline} style={{width:"15px",height:"15px"}}/>
                 </div>
             
                 <div className="price-box">
@@ -2964,11 +2974,11 @@ function App() {
                 </h3>
             
                 <div className="showcase-rating">
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star"></ion-icon>
-                  <ion-icon name="star-outline"></ion-icon>
-                  <ion-icon name="star-outline"></ion-icon>
+                  <img src={star} style={{width:"15px",height:"15px"}}/>
+                  <img src={star} style={{width:"15px",height:"15px"}}/>
+                  <img src={star} style={{width:"15px",height:"15px"}}/>
+                  <img src={starOutline} style={{width:"15px",height:"15px"}}/>
+                  <img src={starOutline} style={{width:"15px",height:"15px"}}/>
                 </div>
             
                 <div className="price-box">
@@ -3070,7 +3080,7 @@ function App() {
             <a href="#" className="service-item">
 
               <div className="service-icon">
-                <ion-icon name="boat-outline"></ion-icon>
+              <img src={boat} style={{width:"40px",height:"40px"}}/>
               </div>
 
               <div className="service-content">
@@ -3085,7 +3095,7 @@ function App() {
             <a href="#" className="service-item">
             
               <div className="service-icon">
-                <ion-icon name="rocket-outline"></ion-icon>
+              <img src={rocket} style={{width:"40px",height:"40px"}}/>
               </div>
             
               <div className="service-content">
@@ -3100,7 +3110,7 @@ function App() {
             <a href="#" className="service-item">
             
               <div className="service-icon">
-                <ion-icon name="call-outline"></ion-icon>
+              <img src={call} style={{width:"40px",height:"40px"}}/>
               </div>
             
               <div className="service-content">
@@ -3115,7 +3125,7 @@ function App() {
             <a href="#" className="service-item">
             
               <div className="service-icon">
-                <ion-icon name="arrow-undo-outline"></ion-icon>
+                <img src={returnLogo} style={{width:"40px",height:"40px"}}/>
               </div>
             
               <div className="service-content">
@@ -3130,7 +3140,7 @@ function App() {
             <a href="#" className="service-item">
             
               <div className="service-icon">
-                <ion-icon name="ticket-outline"></ion-icon>
+              <img src={slip} style={{width:"40px",height:"40px"}}/>
               </div>
             
               <div className="service-content">
