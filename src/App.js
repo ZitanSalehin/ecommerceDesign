@@ -24,7 +24,7 @@ import facebook from './assets/images/logo/facebook.svg';
 import twitter from './assets/images/logo/twitter.svg';
 import instagram from './assets/images/logo/instagram.svg';
 import linkedin from './assets/images/logo/linkedin.svg';
-import search from './assets/images/logo/search.svg';
+import search from './assets/images/logo/search.png';
 import star from './assets/images/logo/star.svg';
 import starOutline from './assets/images/logo/star-outline.svg';
 import boat from './assets/images/logo/boat.svg';
@@ -211,7 +211,7 @@ function App() {
         <input type="search" name="search" className="search-field" placeholder="Enter your product name..."/>
 
         <button className="search-btn">
-        <img src={search} style={{width:"30px", height:"30px"}}/>
+        <img src={search} style={{width:"20px", height:"20px"}}/>
         </button>
 
       </div>
