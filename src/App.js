@@ -3561,7 +3561,7 @@ function App() {
       <img src={payment} alt="payment method" className="payment-img"/>
 
       <p className="copyright">
-        Copyright &copy; <a href="#">Anon</a> all rights reserved.
+        Copyright &copy; <a href="#">HealthOS</a> all rights reserved.
       </p>
 
     </div>
@@ -3572,19 +3572,16 @@ function App() {
 
 
 
-
-
-
 {/* <!--
   - custom js link
 --> */}
-<script src="./assets/js/script.js"></script>
+{/* <script src="./assets/js/script.js"></script> */}
 
 {/* <!--
   - ionicon link
 --> */}
-<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+{/* <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script> */}
 
 </body>
     
